@@ -1,0 +1,23 @@
+{
+  "name": "scenic-frame",
+  "version": "1.0.0",
+  "description": "Scenic expression of city pop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pixel art",
+    "city pop",
+    "p5.js",
+    "node",
+    "express",
+    "audio"
+  ],
+  "author": "Melissa Lee",
+  "homepage": "ultraviollette.ml",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
