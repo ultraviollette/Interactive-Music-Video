@@ -20,5 +20,4 @@ For the harmony of music and image, I converted every image as a pixel-art so th
 # Reference
 1. https://app.monopro.org/pixel/ - To convert your image as a pixelart, go for it!
 2. https://youtu.be/0S43IwBF0uM - In visual-wise, the idea is inspired by this music video directed by Michel Gondry.
-3. https://www.ultraviollette.net - The basic introduction of node.js is written on my blog. It was also part of the assignment.
 
