@@ -14,7 +14,7 @@ My topic was node.js and this was my demo project to show a simple integration o
 # Explanation
 Briefly, the structure of this project consists of the node_modules folder to use the modules and the public folder for audio, image, and p5 files.
 When the node.js and express implement the server, p5 draws the images and turns on the music following the way I wrote on the sketch.js file.
-Since it was for the last week of the class, I tried to make it as the closing credits of the class, you can see all the subjects on the signages.
+Since it was for the last week of the class, I tried to make it as the closing credits of the class, you can see all the classmates' topics on the signages.
 For the harmony of music and image, I converted every image as a pixel-art so that it could give the reminiscence of a retro city.
 
 # Reference
