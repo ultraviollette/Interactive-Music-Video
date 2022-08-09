@@ -1,3 +1,5 @@
+![Presentation2_inclass_compressed](https://user-images.githubusercontent.com/54721138/183595831-762b3e20-206f-4e18-9185-df88bfc74ea3.gif)
+
 # Introduction
 node + express + p5
 
@@ -20,4 +22,5 @@ For the harmony of music and image, I converted every image as a pixel-art so th
 # Reference
 1. https://app.monopro.org/pixel/ - To convert your image as a pixelart, go for it!
 2. https://youtu.be/0S43IwBF0uM - In visual-wise, the idea is inspired by this music video directed by Michel Gondry.
+
 
